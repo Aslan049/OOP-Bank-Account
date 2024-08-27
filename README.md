@@ -1,12 +1,12 @@
-#Bank Account Project
-#Açıklama
-Bu proje,OOP kullanılarak oluşturulmuş müşteri ve hesap yönetimini simüle eden bir Python uygulamasıdır. Müşteri bilgilerini ve hesap bilgilerini yönetir ve faiz hesaplamaları yapar.
+Bank Account Project
+**Description
+This project is a Python application that simulates customer and account management using Object-Oriented Programming (OOP). It manages customer information, account details, and performs interest calculations.
 
-#Kullanılan Araçlar
--Python
--OOP
+*Tools Used
+Python
+Object-Oriented Programming (OOP)
 
-#Kurulum
-Python 3.x'in yüklü olduğundan emin olun.
-Gerekli kütüphaneleri yüklemek için:
+*Installation
+Ensure you have Python 3.x installed.
+To install the required libraries, run the following command:
 pip install -r requirements.txt
